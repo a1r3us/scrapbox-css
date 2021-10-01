@@ -1,0 +1,10 @@
+html {
+   min-height: 100%;
+}
+body {
+   background-image: none;
+   background-color: var(--body-bg);
+   background-image: radial-gradient(ellipse at right bottom, rgb(145, 41, 250), rgba(255,255,255,0) 40%),radial-gradient(ellipse at left top, rgb(84,254,63), rgba(255,255,255,0) 40%);
+   background-size: cover;
+   background-position: center center;
+}
